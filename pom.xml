@@ -12,7 +12,7 @@
     <artifactId>tq-common</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>sctq-common</name>
-    <packaging>jar</packaging>
+    <!--<packaging>jar</packaging>-->
     <description>Demo project for Spring Boot</description>
 
     <properties>
